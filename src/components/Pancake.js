@@ -21,7 +21,6 @@ componentDidMount () {
     this.startInterval()
   }
 
-
   componentWillUnmount () {
     this.cleanUpInterval()
   }
